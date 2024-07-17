@@ -6,7 +6,7 @@ layout: homepage
 
 I am an incoming first-year PhD student at MIT's [Institute for Data, Systems, and Society](https://idss.mit.edu/) (IDSS). My interests lie broadly in the theory of machine learning. During my undergrad at the University of Toronto, I was fortunate to work with [Daniel Roy](http://danroy.org/), [Rachid Guerraoui](https://dcl.epfl.ch/rachid/), and [Dan Alistarh](https://ist.ac.at/en/research/alistarh-group/).
 
-I'm Ukrainian.&#127803; Sometimes, you may see me mentioned as 'Oleksandr Voitovych,' which is my full name. 
+I'm Ukrainian.&#127803; You may see me mentioned as 'Oleksandr Voitovych,' which is my full name. 
 
 <!-- ## Research Interests
 
