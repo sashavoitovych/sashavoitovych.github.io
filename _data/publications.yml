@@ -1,5 +1,10 @@
 main:
 
+  - title: On Traceability in $\ell_p$ Stochastic Convex Optimization
+    authors: <strong>Sasha Voitovych</strong>*, Mahdi Haghifam*, Idan Attias, Gintare Karolina Dziugaite, Roi Livni, Dan Roy
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS, Spotlight)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2502.17384
+
   - title: "Byzantine-Robust Federated Learning: Impact of Client Subsampling and Local Updates"
     authors:  Youssef Allouah, Sadegh Farhadkhani, Rachid Guerraoui, Nirupam Gupta, Rafael Pinot, Geovani Rizk, <strong>Sasha Voitovych</strong> (&alpha;&beta;)
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.

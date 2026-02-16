@@ -1,5 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px 0px;">Publications</h2>
-<p style="margin: 2px 0px -15px;">[ (&alpha;&beta;) denotes alphabetical authorship ]</p>
+<p style="margin: 2px 0px -15px;">[ (&alpha;&beta;) is for alphabetical authorship, * is for equal contribution ]</p>
 
 <div class="publications">
 <ol class="bibliography">
