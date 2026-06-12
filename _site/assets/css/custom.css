@@ -1,5 +1,0 @@
-/* Remove min-height to prevent uneven spacing */
-.publications ol.bibliography li {
-  min-height: auto !important;
-  margin-bottom: 0 !important;
-}
