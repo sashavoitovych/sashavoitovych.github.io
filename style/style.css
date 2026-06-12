@@ -16,15 +16,16 @@ div#main {
 }
 
 div#info {
+    max-width: 620px;
     line-height: 1.32;
 }
 
 div#photo-box {
     width: 300px;
+    height: 380px;
     float: right;
     text-align: left;
-    margin-left: 30px;
-    margin-bottom: 10px;
+    margin-left: 40px;
 }
 
 div#photo-box img {
@@ -87,6 +88,17 @@ h2 {
     margin-bottom: 0.75em;
 }
 
+footer {
+    margin-top: 3em;
+    padding-bottom: 1.5em;
+    font-size: 0.85em;
+    color: #888;
+}
+
+footer a {
+    color: #888;
+}
+
 @media (max-width: 768px) {
     div#photo-box {
         float: none;
@@ -99,7 +111,7 @@ h2 {
     }
 
     div#info {
-        width: 100%;
+        max-width: none;
     }
 
     #publications {
