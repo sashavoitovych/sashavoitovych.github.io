@@ -39,6 +39,7 @@ div#photo-box {
 
 div#photo-box img {
     display: block;
+    border-radius: 6px;
 }
 
 ul.dotted-list {
